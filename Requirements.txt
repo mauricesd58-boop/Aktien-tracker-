@@ -1,0 +1,7 @@
+streamlit
+pandas
+yfinance
+openpyxl
+streamlit-calendar
+google-api-python-client
+google-auth
